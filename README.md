@@ -6,6 +6,7 @@ I'm looking for knowledge and learn as much as possible.
 
 If you want to contact me, feel free to reach out at 
 
+----------
 ### Connect with me
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
@@ -22,7 +23,7 @@ If you want to contact me, feel free to reach out at
 
 <br />
 
-
+----------
 ### Languages and Tools:
 
 <img align="left" alt="graphql" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
@@ -37,6 +38,8 @@ If you want to contact me, feel free to reach out at
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<br />
+<br />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="SQL" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="postgresql" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
@@ -49,13 +52,15 @@ If you want to contact me, feel free to reach out at
 <img align="left" alt="Shell" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Docker" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/kubernetes.png" />
+<br />
+<br />
 <img align="left" alt="GCP" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
 <img align="left" alt="AWS" width="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Azure" width="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <br />
 <br />
 
----
+----------
 ### Technical Skills 💻
 
 - **Programming & Cloud**: 
@@ -74,7 +79,7 @@ Mac OS, Linux, Unix
 
 ---
 ### Projects
-- [React build Vite JS]: https://github-readme-stats.vercel.app/api/pin/?username=jonathino2590&repo=react-vitejss&cache_seconds=86400&theme=react 
+[React build Vite JS]: https://github-readme-stats.vercel.app/api/pin/?username=jonathino2590&repo=react-with-vitejs&cache_seconds=86400&theme=react 
 
 ➡️ [more projects...](https://github.com/jonathino2590?tab=repositories)
 
