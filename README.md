@@ -46,6 +46,8 @@ If you want to contact me, feel free to reach out at
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Visual Studio Code" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<br />
+<br />
 <img align="left" alt="Git" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -75,13 +77,11 @@ Mac OS, Linux, Unix
 
 - [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin (Author) ](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook-dp-B001GSTOAM/dp/B001GSTOAM/ref=mt_other?_encoding=UTF8&me=&qid=1614262259)
 
-<br />
-
 ---
 ### Projects
-[React build Vite JS]: https://github-readme-stats.vercel.app/api/pin/?username=jonathino2590&repo=react-with-vitejs&cache_seconds=86400&theme=react 
+- [🧬 React build Vite JS]: https://github.com/jonathino2590/react-with-vitejs)
 
-➡️ [more projects...](https://github.com/jonathino2590?tab=repositories)
+- [more projects...](https://github.com/jonathino2590?tab=repositories)
 
 ----------
 
