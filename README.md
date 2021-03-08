@@ -89,10 +89,8 @@ Mac OS, Linux, Unix
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathino2590&layout=compact)]
- 
-
-<img align="left" alt="Jonathan Lopez Torres Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathino2590&show_icons=true&hide_border=true&count_private=true&hide=&cache_seconds=86400&theme=dark">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathino2590&layout=compact)
+![Trinity's github stats](https://github-readme-stats.vercel.app/api/?username=jonathino2590&show_icons=true&hide_border=true&count_private=true&hide=&cache_seconds=86400&theme=dark) 
 
 </div>
 
