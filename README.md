@@ -16,7 +16,7 @@ If you want to contact me, feel free to reach out at
   <img  alt="Instagram" height="30" src="https://i.blogs.es/84fb9a/instagram/1366_2000.jpg" />
 </a>
 <a target="_blank" href="https://about.me/jonathanlopeztorres">
-  <img  alt="Devto"height="30" src="https://about.me/s3/h/favicon/favicon_48.d67d3678.png" />
+  <img  alt="about" height="30" src="https://about.me/s3/h/favicon/favicon_48.d67d3678.png" />
 </a>
 <a target="_blank" href="mailto:jonathino2590@gmail.com">
   <img alt="Gmail" height="30" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />
