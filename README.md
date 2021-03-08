@@ -87,14 +87,14 @@ Mac OS, Linux, Unix
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 
-<details>
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinwin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Trinity's github stats](https://github-readme-stats.vercel.app/api/?username=trinwin&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathino2590&layout=compact)]
+ 
 
 <img align="left" alt="Jonathan Lopez Torres Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathino2590&show_icons=true&hide_border=true&count_private=true&hide=&cache_seconds=86400&theme=dark">
 
-</details>
+</div>
 
 
 
