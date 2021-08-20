@@ -12,9 +12,6 @@ If you want to contact me, feel free to reach out at
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img alt="LinkdeIN" height="30" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
-<a target="_blank" href="https://www.instagram.com/lopeztorres2590/">
-  <img  alt="Instagram" height="30" src="https://i.blogs.es/84fb9a/instagram/1366_2000.jpg" />
-</a>
 <a target="_blank" href="https://about.me/jonathanlopeztorres">
   <img  alt="about" height="30" src="https://about.me/s3/h/favicon/favicon_48.d67d3678.png" />
 </a>
