@@ -55,13 +55,14 @@ If you want to contact me, feel free to reach out at
 <a href="https://www.gnu.org/software/bash/"><img alt="Shell" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/"><img alt="Docker" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></a>&nbsp;&nbsp;
+ <a href="https://www.kubernetes.io/"><img alt="Kubernetes" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /></a>&nbsp;&nbsp;
 <a href="https://aws.amazon.com/"><img alt="AWS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /></a>&nbsp;&nbsp;
 
 ----------
 ### Technical Skills 💻
 
 - **Programming & Cloud**: 
-FrontEnd(Css, Html, JS, React JS, Vue , Svelte (Basic)), Node js, Spring Boot, Graphql, Shell Script, Aws
+FrontEnd(Css, Html, JS, React JS, Vue , Svelte (Basic)), Node js, Spring Boot, Graphql, Shell Script, Aws, Kubernetes
 
 - **SO**: 
 Mac OS, Linux, Unix
